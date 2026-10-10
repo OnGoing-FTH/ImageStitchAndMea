@@ -1,0 +1,31 @@
+{
+  "image_pairs": [
+    {
+      "src": "D:\\paper_3\\images\\001.jpg",
+      "dst": "D:\\paper_3\\images\\002.jpg",
+      "dx": 692.580078125,
+      "dy": 4.567626953125,
+      "match_count": 368
+    },
+    {
+      "src": "D:\\paper_3\\images\\001.jpg",
+      "dst": "D:\\paper_3\\images\\002.jpg",
+      "dx": 692.5327758789062,
+      "dy": 4.5723876953125,
+      "match_count": 285
+    },
+    {
+      "src": "D:\\paper_3\\test1\\001.jpg",
+      "dst": "D:\\paper_3\\test1\\002.jpg",
+      "dx": 198.75369262695312,
+      "dy": -28.95343017578125,
+      "match_count": 350
+    }
+  ],
+  "global_order": [
+    "D:\\paper_3\\images\\001.jpg",
+    "D:\\paper_3\\images\\002.jpg",
+    "D:\\paper_3\\test1\\001.jpg",
+    "D:\\paper_3\\test1\\002.jpg"
+  ]
+}
